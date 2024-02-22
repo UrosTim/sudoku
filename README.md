@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku solver. Using Backtracking. Print in terminal.
+Sudoku solver. Using backtracking algorithm. Print in terminal.
